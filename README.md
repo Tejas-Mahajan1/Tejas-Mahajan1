@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/captaintj07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="captaintj07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tejas-mahajan-73b8b7229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tejas-mahajan-73b8b7229/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/tejas-mahajan-73b8b7229/](https://www.linkedin.com/in/tejas-mahajan-73b8b7229/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tejas-mahajan-73b8b7229/" height="30" width="40" /></a>
 <a href="https://instagram.com/tejas_mahajan___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tejas_mahajan___" height="30" width="40" /></a>
 <a href="https://discord.gg/tejas_mahajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tejas_mahajan" height="30" width="40" /></a>
 </p>
