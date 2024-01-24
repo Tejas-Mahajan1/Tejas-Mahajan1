@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas Mahajan</h1>
 <h3 align="center">I am a tech enthusiast who is constantly exploring the ever-evolving landscape of web development.</h3>
 
-- 🌱 I’m currently learning **React and Rust**
+- 🌱 I’m currently learning **NextJs and Rust**
 
 - 💬 Ask me about **Reactjs , Nodejs , ExpressJs , DSA**
 
