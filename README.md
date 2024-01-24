@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **NextJs and Rust**
 
 - 💬 Ask me about **Reactjs , Nodejs , ExpressJs , DSA**
-![Uploading uchiha-itachi.gif…]()
+                                                          ![Uploading uchiha-itachi.gif…]()
 
 - 📫 How to reach me **tejasm388@gmail.com**
 
