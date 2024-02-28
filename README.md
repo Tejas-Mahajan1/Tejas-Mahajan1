@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tejas Mahajan</h1>
 <h3 align="center">I am a tech enthusiast who is constantly exploring the ever-evolving landscape of web development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas-mahajan1&label=Profile%20views&color=0e75b6&style=flat" alt="tejas-mahajan1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejas-mahajan1" alt="tejas-mahajan1" /></a> </p>
-
 - 🌱 I’m currently learning **NextJs, Rust ,C#**
 
 - 💬 Ask me about **React , NextJs , DSA**
