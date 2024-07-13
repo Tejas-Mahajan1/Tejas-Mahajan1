@@ -5,9 +5,9 @@
 - 🌱 I’m currently learning **NextJs, ThreeJs**
 
 - 💬 Ask me about **React , NextJs , DSA**
--  Portfolio :- <a href="https://tejas-mahajan-imdb.netlify.app/">Link</a>
 
 - 📫 How to reach me **tejasm388@gmail.com**
+- Portfolio :- <a href="https://tejas-mahajan-imdb.netlify.app/">Link</a>
 
 
 ## 🌐 Socials:
