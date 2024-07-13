@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning **NextJs, ThreeJs**
 
 - 💬 Ask me about **React , NextJs , DSA**
+- Portfolio :- **https://master--tejas-next-portfolio.netlify.app/**
 
 - 📫 How to reach me **tejasm388@gmail.com**
 
