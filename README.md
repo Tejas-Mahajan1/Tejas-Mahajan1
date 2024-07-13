@@ -7,7 +7,7 @@
 - 💬 Ask me about **React , NextJs , DSA**
 
 - 📫 How to reach me **tejasm388@gmail.com**
-- Portfolio :- <a href="https://tejas-mahajan-imdb.netlify.app/">Link</a>
+- Portfolio :- <a href="https://master--tejas-next-portfolio.netlify.app/">Link</a>
 
 
 ## 🌐 Socials:
